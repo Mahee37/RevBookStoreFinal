@@ -1,0 +1,9 @@
+com\revbookstoreclientapp\RevbookstoreclientappApplication.class
+com\revbookstoreclientapp\controller\ClientSellerController.class
+com\revbookstoreclientapp\dto\Favorites.class
+com\revbookstoreclientapp\dto\Products.class
+com\revbookstoreclientapp\dto\User.class
+com\revbookstoreclientapp\dto\Orders.class
+com\revbookstoreclientapp\dto\ShoppingCart.class
+com\revbookstoreclientapp\ServletInitializer.class
+com\revbookstoreclientapp\dto\Review.class
