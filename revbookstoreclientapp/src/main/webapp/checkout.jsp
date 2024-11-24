@@ -60,6 +60,10 @@
         </div>
     </form>
 </div>
+<form>
+<script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_P6C9prLtlRt6EX" async>
+</script>
+</form>
 
 <!-- Bootstrap JS and dependencies -->
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
